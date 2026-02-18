@@ -1,8 +1,8 @@
 ## Hi there 👋
 <!-- Typing SVG -->
-<p align="center">
-  <strong><span style="color:#ffffff;">👋 Medhanye Gebremedhin</span></strong>
-</p>
+## Hi there 👋
+
+<h1 align="center">👋 Medhanye Gebremedhin</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
