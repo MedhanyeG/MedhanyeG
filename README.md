@@ -44,7 +44,7 @@ CI/CD, Terraform, Kubernetes, Security Compliance, Performance Monitoring & Anal
 ---
 
 ## 💡 Professional Philosophy
-> "Innovation isn't just about writing code—it's about architecting solutions that transform ideas into scalable, intelligent systems that drive real-world impact."
+> "Innovation isn't just about writing code, it's about architecting solutions that transform ideas into scalable, intelligent systems that drive real-world impact."
 
 ---
 
