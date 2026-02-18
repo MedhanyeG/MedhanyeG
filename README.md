@@ -1,5 +1,6 @@
 ## Hi there 👋
 <!-- Typing SVG -->
+I am Medhanye Gebremedhin
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%8C%8D+Addis+Ababa%2C+Ethiopia+%7C+%F0%9F%9A%80+Senior+AI-Enabled+Developer;Building+AI-powered%2C+cloud-native+products;Security+%E2%80%A2+Performance+%E2%80%A2+Great+UX" alt="Typing SVG" />
@@ -31,24 +32,6 @@ Node.js, Express.js, MongoDB, PostgreSQL, AWS, GCP, Docker, Serverless, Microser
 
 ### 🛡️ DevOps & Security
 CI/CD, Terraform, Kubernetes, Security Compliance, Performance Monitoring & Analytics
-
----
-
-## 📊 GitHub Analytics & Performance
-
-### 🏆 Overview Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-
-### 🏅 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&margin-w=8)
-
-### 💻 Language Distribution
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
-
-### 📈 Annual Contribution Activity
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)
-
----
 
 ## 🌐 Professional Network
 
