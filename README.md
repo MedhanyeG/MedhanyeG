@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- Typing SVG -->
 ## Hi there 👋
 
