@@ -1,6 +1,9 @@
 ## Hi there 👋
 <!-- Typing SVG -->
-I am Medhanye Gebremedhin
+<p align="center">
+  <strong><span style="color:#ffffff;">👋 Medhanye Gebremedhin</span></strong>
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%8C%8D+Addis+Ababa%2C+Ethiopia+%7C+%F0%9F%9A%80+Senior+AI-Enabled+Developer;Building+AI-powered%2C+cloud-native+products;Security+%E2%80%A2+Performance+%E2%80%A2+Great+UX" alt="Typing SVG" />
